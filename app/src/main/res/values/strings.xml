@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppRegistro</string>
+    <string name="titulo_app">CREAR NUEVO USUARIO</string>
+    <string name="bienvenida">Bienvenido</string>
+    <string name="subtitle_app">USUARIO_LOGEADO</string>
+    <string name="btn_acceder">Crear</string>
+    <string name="btn_Limpiar">Limpiar</string>
+</resources>
